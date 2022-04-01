@@ -1,6 +1,6 @@
-# OrderSale - Exercico Pratico C#
+# OrderSale - Exercício Prático C#
 
-### Pratica de Enumeração e composição
+### Prática de Enumeração e Composição
 
 ## Screenshot da execução do projeto:
 ![Screenshot OrderSales](./img/OrderSales.jpg)
