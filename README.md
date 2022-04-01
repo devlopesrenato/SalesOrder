@@ -1,5 +1,5 @@
 # OrderSale - Exercico Pratico C#
 
-### Screenshot da execução projeto:
+### Screenshot da execução do projeto:
 
 ![Screenshot OrderSales](./img/OrderSales.jpg)
